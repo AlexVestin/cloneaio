@@ -3,7 +3,6 @@ import logging
 import math
 from itertools import tee
 from struct import pack, unpack_from
-
 import av
 
 from ..mediastreams import VIDEO_TIME_BASE, convert_timebase
